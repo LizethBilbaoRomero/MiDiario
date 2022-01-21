@@ -1,5 +1,5 @@
  < ?php
-       anggi
+      
 require_once "login.php";
 require_once "funciones.php";
 //gringuita noegueseni
